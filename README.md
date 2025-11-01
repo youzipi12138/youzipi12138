@@ -49,13 +49,4 @@ I'm a Frontend Developer | React & Vue Enthusiast | Love Open Source 💻
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #2496ed); animation: float 4.6s ease-in-out infinite;" />
 </p>
 
-<!-- 动画定义（GitHub markdown 支持 inline style） -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
 </div>
