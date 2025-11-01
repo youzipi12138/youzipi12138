@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi 👋, I'm Ren Ran
 I'm a Frontend Developer | React & Vue Enthusiast | Love Open Source 💻
 ### 💻 Tech Stack
