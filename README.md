@@ -1,52 +1,45 @@
-# Hi 👋, I'm Ren Ran
+# 👋 Hi, I'm Ren Ran
 
-I'm a Frontend Developer | React & Vue Enthusiast | Love Open Source 💻
+💡 Frontend Developer | React & Vue Enthusiast | Love Open Source
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=youzipi12138&show_icons=true&theme=radical)
-
-### 🚀 Featured Projects
-
-- [Project 1](https://github.com/youzipi12138/project1): A brief description of your project.
-- [Project 2](https://github.com/youzipi12138/project2): Another brief description.
-
-### 📫 Connect with Me
-
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Blog](https://yourblog.com)
-
-### 💻 Tech Stack
+### ⚡ Tech Stack
 
 <div align="center">
 
-<!-- 徽章部分：增加渐变背景 + hover 动效 -->
+<!-- 炫彩徽章组 -->
 <p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="30" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffdf00?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
 </p>
 
-<!-- 图标部分：增加微动画 + 阴影 -->
+<!-- 炫光图标组（暗黑模式自适应） -->
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #e34f26); animation: float 3s ease-in-out infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #1572b6); animation: float 3.2s ease-in-out infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #f7df1e); animation: float 3.4s ease-in-out infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #61dafb); animation: float 3.6s ease-in-out infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #42b883); animation: float 3.8s ease-in-out infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #06b6d4); animation: float 4s ease-in-out infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #007396); animation: float 4.2s ease-in-out infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #68a063); animation: float 4.4s ease-in-out infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" style="margin: 8px; filter: drop-shadow(0 0 5px #2496ed); animation: float 4.6s ease-in-out infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-light-mode-only" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg#gh-dark-mode-only" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
 </p>
+
+<!-- 动态打字SVG -->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4FC08D&center=true&vCenter=true&width=600&lines=Crafting+Frontend+Magic+with+Vue+%26+React;Building+Clean+and+Scalable+Apps;Loving+Open+Source+%F0%9F%92%BB" alt="Typing SVG">
+</p>
+
+</div>
 
 </div>
