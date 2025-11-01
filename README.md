@@ -4,6 +4,21 @@ I'm a Frontend Developer | React & Vue Enthusiast | Love Open Source 💻
 
 ---
 
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=youzipi12138&show_icons=true&theme=radical)
+
+### 🚀 Featured Projects
+
+- [Project 1](https://github.com/youzipi12138/project1): A brief description of your project.
+- [Project 2](https://github.com/youzipi12138/project2): Another brief description.
+
+### 📫 Connect with Me
+
+- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Blog](https://yourblog.com)
+
 ### 💻 Tech Stack
 
 <div align="center">
