@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ren Ran
 
-💡 Frontend Developer | React & Vue Enthusiast | Love Open Source
+💡 **Frontend Developer** | React & Vue Enthusiast | Love Open Source
 
 ---
 
@@ -21,10 +21,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
 </p>
 
-<!-- 炫光图标组（暗黑模式自适应） -->
+<!-- 炫光图标组 -->
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-light-mode-only" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg#gh-dark-mode-only" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
@@ -35,11 +34,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
 </p>
 
-<!-- 动态打字SVG -->
+<!-- 动态打字效果 -->
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4FC08D&center=true&vCenter=true&width=600&lines=Crafting+Frontend+Magic+with+Vue+%26+React;Building+Clean+and+Scalable+Apps;Loving+Open+Source+%F0%9F%92%BB" alt="Typing SVG">
 </p>
 
 </div>
 
+---
+
+### 🏢 Internship Experience
+
+- 💼 **Xiaomi (小米科技)** — \_Test Development Intern
+
+- 🛰 **GEOVIS (中科星图)** — \_Frontend Development Intern
+
+---
+
+### ✨ Connect With Me
+
+<p align="center">
+  <a href="https://juejin.cn/user/3631047185561411" target="_blank">
+    <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%40RenRan-blue?style=for-the-badge&logo=juejin&logoColor=white" height="32"/>
+  </a>
+  <a href="https://github.com/youzipi12138" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%40RenRan-black?style=for-the-badge&logo=github" height="32"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  🌱 *Keep learning, keep building, keep sharing.*
 </div>
